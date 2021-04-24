@@ -1,0 +1,4 @@
+A few trends that we see in this data set are :
+    1. Male players tend to spend more on items as a whole.
+    2. Most of the players are between the ages of 20-24 with the second biggest group being 15-19 years old.
+    3. We also notice the the 20-24 age group spends the most as a whole
